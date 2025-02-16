@@ -48,7 +48,7 @@ We also warmly welcome highschool students, university students, researchers, in
 ### Track 2 - AI in Low-Resource Settings
 
 - Creating AI solutions for remote and resource-constrained environments, focusing on solar-powered AI, edge computing, and low-power hardware like Raspberry Pi
-- Challenge participants to design paper-based AI solutions for communities lacking electricity or computing power.
+- Challenge participants to design AI solutions for communities with limited electricity or computing power on older devices.
 
 
 ## Organizing committee
