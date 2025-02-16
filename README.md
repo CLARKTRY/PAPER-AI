@@ -33,14 +33,14 @@ We also warmly welcome highschool students, university students, researchers, in
 - Registration deadline: May 31, 2025 (registration website coming soon)
 - Event date: One weekend in September
 
-## Themes
+## Challenge Themes
 
-### Challenge 1 - AI on Paper
+### Track 1 - AI on Paper
 
 - Developing solutions for children living in refugee camps with limited or no access to digital technology, addressing disabilities, language barriers, and accessibility constraints.
 - Example applications include but are not limited to education and (prenatal) healthcare.
 
-### Challenge 2 - AI in Low-Resource Settings
+### Track 2 - AI in Low-Resource Settings
 
 - Creating AI solutions for remote and resource-constrained environments, focusing on solar-powered AI, edge computing, and low-power hardware like Raspberry Pi
 - Challenge participants to design paper-based AI solutions for communities lacking electricity or computing power.
