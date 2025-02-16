@@ -20,7 +20,7 @@ The PAPER-AI competition invites students, researchers, and innovators to tackle
 
 ## Who Can Apply?
 
-Passionate in empowering low-resource communities? This competition is for you!
+Passionate in empowering marginalized communities? This competition is for you!
 
 We also warmly welcome highschool students, university students, researchers, innovators, and professionals from all disciplines. 
 
