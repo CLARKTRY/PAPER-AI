@@ -9,25 +9,25 @@ The PAPER-AI competition invites students, researchers, and innovators to tackle
 - Interested individuals are asked to identify their own team members to form a team.
 - Teams are invited to apply for a free 8-week virtual bootcamp where they will be paired with domain experts 
 
-## Bootcamp & Mentorship
-
 
 ## Who Can Apply?
 
-We encourage students, innovators, researchers, and professionals from all disciplines. If you are passionate in empowering low-resource communities, this competition is for you.
+Passionate in empowering low-resource communities? This competition is for you!
+
+We also warmly welcome highschool students, university students, researchers, innovators, and professionals from all disciplines. 
 
 ## Perks
 
 - Cash prizes for challenge winners
-- Skills training and development, networking
+- Skills training and development
+- Networking
 - Selected teams will receive mentorship from domain experts
 - Teams will be invited to an in-person judging/ celebration event where they demo their solutions live to a panel of judges. Winning teams will be awarded funding and support to scale their impact.
 
 ## Details for contestants 
 
-1. Weekly bootcamps
-2. In-person judging & closing cermony
-- Location: Downtown Vancouver
+1. Virtual mentorships with domain experts and/or end-users recruited from marginalized communities
+2. In-person judging & closing cermony will be held in Downtown Vancouver
 
 ## Key dates:
 
@@ -49,7 +49,7 @@ We encourage students, innovators, researchers, and professionals from all disci
 
 ## Organizing committee
 
-- Lisa Tang (UBC)
-- Yoonha Jeon (UBC)
+- Lisa Tang (University of British Columbia)
+- Yoonha Jeon (University of British Columbia)
 - Ismail Khater (Boston University)
-- Design4Good members (Chiba University, Kanazawa University)
+- Design4Good members (Chiba University, Kanazawa University, Simon Fraser University)
