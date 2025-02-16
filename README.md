@@ -32,9 +32,11 @@ We also warmly welcome highschool students, university students, researchers, in
 
 ## Key dates:
 
-- Registration opens: May 1, 2025
-- Registration deadline: May 31, 2025 (registration website coming soon)
-- Event date: 3rd or 4th weekend in September
+- Registration website opens: May 1
+- Registration deadline: May 31 (registration website coming soon)
+- Incubation program: July 1 - August 31
+- In-person competition registration: August 31
+- In-person event: 3rd or 4th weekend in September
 
 ## Challenge Themes
 
