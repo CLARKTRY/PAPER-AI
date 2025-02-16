@@ -51,7 +51,8 @@ We also warmly welcome highschool students, university students, researchers, in
 
 ## Organizing committee
 
-- Ismail Khater (Boston University)
-- Lisa Tang (University of British Columbia)
-- Yoonha Jeon (University of British Columbia)
+- I. Khater (Boston University)
+- A. Ghorab (University College of Applied Science)
+- L. Tang (University of British Columbia)
+- Y. Jeon (University of British Columbia)
 - And Design4Good members (Chiba University, Kanazawa University, Simon Fraser University)
