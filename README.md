@@ -6,9 +6,8 @@ How can we design AI solutions that work beyond the digital divide—without rel
 
 The PAPER-AI competition invites students, researchers, and innovators to tackle some of the world’s most pressing challenges through sustainable, accessible AI.
 
-- Interested individuals are asked to identify their own team members to form a team.
-- Teams are invited to apply for a free 8-week virtual bootcamp where they will be paired with domain experts 
-
+- Interested individuals will need to identify their own team members and complete a short proposal before the registration deadline
+- Select teams will be invited to a virtual incubation program where they will be paired with domain experts 
 
 ## Who Can Apply?
 
