@@ -4,10 +4,10 @@
 
 How can we design AI solutions that work beyond the digital divide—without reliable electricity, high-powered computing, or internet access? 
 
-The PAPER-AI competition invites students, researchers, and innovators to tackle some of the world’s most pressing challenges through sustainable, accessible AI.
+The PAPER-AI competition invites students, researchers, and innovators to tackle some of the world’s most pressing challenges through sustainable and accessible AI.
 
 - Interested individuals will need to identify their own team members and complete a short proposal before the registration deadline
-- Select teams will be invited to a virtual incubation program where they will be paired with domain experts 
+- Select teams will be invited to a virtual incubation program where they will be paired with domain experts and community stakeholders
 
 ## Who Can Apply?
 
