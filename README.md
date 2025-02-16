@@ -7,13 +7,8 @@ How can we design AI solutions that work beyond the digital divide—without rel
 The PAPER-AI competition invites students, researchers, and innovators to tackle some of the world’s most pressing challenges through sustainable and accessible AI.
 
 - Interested individuals will need to identify their own team members and complete a short proposal before the registration deadline
-- Select teams will be invited to a virtual incubation program where they will be paired with domain experts and community stakeholders
+- Select teams will be invited to a **virtual incubation program** where they will be paired with domain experts and community stakeholders
 
-## Who Can Apply?
-
-Passionate in empowering low-resource communities? This competition is for you!
-
-We also warmly welcome highschool students, university students, researchers, innovators, and professionals from all disciplines. 
 
 ## Perks
 
@@ -23,15 +18,23 @@ We also warmly welcome highschool students, university students, researchers, in
 - Selected teams will receive mentorship from domain experts
 - Teams will be invited to an in-person judging/ celebration event where they demo their solutions live to a panel of judges. Winning teams will be awarded funding and support to scale their impact.
 
-## Details for contestants 
+## Who Can Apply?
 
-1. Virtual mentorships with domain experts and/or end-users recruited from marginalized communities
+Passionate in empowering low-resource communities? This competition is for you!
+
+We also warmly welcome highschool students, university students, researchers, innovators, and professionals from all disciplines. 
+
+
+## Details for registered participants 
+
+1. Virtual mentorships with domain experts and/or end-users recruited from marginalized communities during July - August
 2. In-person judging & closing cermony will be held in Downtown Vancouver
 
 ## Key dates:
 
+- Registration opens: May 1, 2025
 - Registration deadline: May 31, 2025 (registration website coming soon)
-- Event date: One weekend in September
+- Event date: 3rd or 4th weekend in September
 
 ## Challenge Themes
 
